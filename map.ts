@@ -1,14 +1,8 @@
 /**
  * map.ts
  */
-/**
- * */
-//
- 
-// n
 
- 
-//test
+
 // @deno-types="./libs/@types/geojson/index.d.ts"
 // @deno-types="./libs/@types/mapbox-gl/index.d.ts"
 
