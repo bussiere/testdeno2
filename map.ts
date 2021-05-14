@@ -6,13 +6,12 @@
 //
  
 // n
-// @ts-ignore
-// @ts-nocheck
+
  
 //test
 // @deno-types="./libs/@types/geojson/index.d.ts"
 // @deno-types="./libs/@types/mapbox-gl/index.d.ts"
-import mapboxgl from "./libs/mapbox-gl.js";
+
 mapboxgl.accessToken =  "toto";
 
 var map = new mapboxgl.Map({
